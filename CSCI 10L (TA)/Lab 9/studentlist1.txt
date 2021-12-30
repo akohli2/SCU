@@ -1,0 +1,26 @@
+Bob Smith
+First
+3.6
+Jim McGee
+Sophomore
+2.4
+Jill Johnson
+Sophomore
+3.6
+Joyce Masterson
+First
+3.2
+Bill Jameson
+Sophomore
+2.7
+Bob Hughes
+Senior
+3.1
+Kenny Cranston
+Junior
+2.5
+Stan Marsh
+Junior
+2.5
+Eric Cartman
+Senior 3.1
